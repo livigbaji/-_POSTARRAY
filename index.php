@@ -1,5 +1,5 @@
 
-
+<?php
 function ParsePost{
 
 $x = urldecode($x);
